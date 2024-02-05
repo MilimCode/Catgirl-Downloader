@@ -29,6 +29,8 @@ pip install aiohttp aiofiles tqdm asyncio aioconsole
 
 
 # Installation
+open the Install.bat file FIRST
+
 Clone the repository or download the script to your local machine.
 Open your terminal and navigate to the script's directory.
 Install the required dependencies as mentioned above.
