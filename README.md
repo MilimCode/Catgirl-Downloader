@@ -12,6 +12,9 @@ Handles interruptions and errors gracefully.
 Clears console upon completion for a clean user experience.
 Prerequisites
 Before running this script, ensure you have Python 3.7 or later installed on your system. This script uses asyncio, which requires Python 3.7 or higher for optimal performance.
+https://www.python.org/downloads/
+
+
 
 # Dependencies
 aiohttp
